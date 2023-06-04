@@ -1,0 +1,130 @@
+{
+  "data": [
+    {
+      "id": "GKfrCbCN5f",
+      "title": "Mikä on Griffinien koiran nimi?",
+      "answers": ["Brian", "Stewie", "Meg", "Chris"],
+      "correct_answer": "Brian"
+    },
+    {
+      "id": "cQC0Y2Dmhu",
+      "title": "Kuka on Lois Griffinin isä?",
+      "answers": [
+        "Carter Pewterschmidt",
+        "Peter Griffin",
+        "Glenn Quagmire",
+        "Cleveland Brown"
+      ],
+      "correct_answer": "Carter Pewterschmidt"
+    },
+    {
+      "id": "DFfAzImRk6",
+      "title": "Mikä on kaupungin nimi, jossa Griffinit asuvat?",
+      "answers": ["Quahog", "Springfield", "Simpsons", "Griffinville"],
+      "correct_answer": "Quahog"
+    },
+    {
+      "id": "RY9qUoigEA",
+      "title": "Mikä on Peterin, Joen, Quagmiren ja Clevelandin vakio kapakan nimi?",
+      "answers": [
+        "The Drunken Clam",
+        "The Griffin Tavern",
+        "The Quahog Pub",
+        "Patriot House"
+      ],
+      "correct_answer": "The Drunken Clam"
+    },
+    {
+      "id": "qsLWiq531a",
+      "title": "Mikä on Stewie Griffinin lemmikkinallen nimi?",
+      "answers": ["Rupert", "Winston", "Barney", "Wally"],
+      "correct_answer": "Rupert"
+    },
+    {
+      "id": "WbxoPIWfyk",
+      "title": "Mikä on Peter Griffinin arkkivihollisen nimi?",
+      "answers": [
+        "Lois Griffin",
+        "Meg Griffin",
+        "Stewie Griffin",
+        "Ernie The Giant Chicken"
+      ],
+      "correct_answer": "Ernie The Giant Chicken"
+    },
+    {
+      "id": "MUfeMhv3n8",
+      "title": "Mikä on Channel 5:n uutisankkurin nimi?",
+      "answers": [
+        "Tom Tucker",
+        "Diane Simmons",
+        "Peter Griffin",
+        "Stewie Griffin"
+      ],
+      "correct_answer": "Tom Tucker"
+    },
+    {
+      "id": "c2Ocp9ZvN2",
+      "title": "Kuka on Joe Swansonin työpari?",
+      "answers": [
+        "Brian Griffin",
+        "Stewie Griffin",
+        "Glenn Quagmire",
+        "Akira Yoshida"
+      ],
+      "correct_answer": "Akira Yoshida"
+    },
+    {
+      "id": "ypcGVPrhsg",
+      "title": "Mikä on Griffinien suosiman ostoskeskuksen nimi?",
+      "answers": [
+        "The Quahog Mall",
+        "The Springfield Mall",
+        "The Simpsons Mall",
+        "The Griffin Mall"
+      ],
+      "correct_answer": "The Quahog Mall"
+    },
+    {
+      "id": "gC3jrDwEYk",
+      "title": "Kenet Stewie haluaa tappaa?",
+      "answers": ["Meg", "Chris", "Peter", "Lois"],
+      "correct_answer": "Lois"
+    },
+    {
+      "id": "csOEYs6zXn",
+      "title": "Missä Peter on syntynyt?",
+      "answers": ["Mexico", "Canada", "United States", "Russia"],
+      "correct_answer": "Mexico"
+    },
+    {
+      "id": "cyqZYE8DIK",
+      "title": "Kenellä Family Guyn hahmoista on pakkomielle maailmanvalloituksesta?",
+      "answers": ["Meg", "Chris", "Stewie", "Brian"],
+      "correct_answer": "Stewie"
+    },
+    {
+      "id": "CfQnf3lH56",
+      "title": "Kuka on Quahogin pormestari?",
+      "answers": ["Bill Bixby", "Wild West", "Lynda Carter", "Burt Ward"],
+      "correct_answer": "Wild West"
+    },
+    {
+      "id": "e3dDjEEWl0",
+      "title": "Kuka perusti Quahogin?",
+      "answers": ["Griffin Peterson", "Adam West", "Miles Musket", "A Frog"],
+      "correct_answer": "Griffin Peterson"
+    },
+    {
+      "id": "wKuUTrvMrF",
+      "title": "Miksi Peter muutti Megin nimen tämän syntymätodistukseen?",
+      "answers": ["Megillah", "Megatron", "Megolavina", "Mega Millions"],
+      "correct_answer": "Megatron"
+    },
+    {
+      "id": "SlYDds3o7F",
+      "title": "Kuka poltti The Drunken Clam-baarin?",
+      "answers": ["Peter", "Brian", "God", "Stewie"],
+      "correct_answer": "Peter"
+    }
+  ]
+}
